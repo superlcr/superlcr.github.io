@@ -6,6 +6,15 @@
 	<true/>
 	<key>destination</key>
 	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://superlcr.github.io/SeekbarTester.ad-hoc/SeekbarTester.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://superlcr.github.io/SeekbarTester.ad-hoc/appicon@2x.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://superlcr.github.io/SeekbarTester.ad-hoc/appicon@3x.png</string>
+	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
 	<key>signingStyle</key>
@@ -15,6 +24,6 @@
 	<key>teamID</key>
 	<string>W858HZ6HZ4</string>
 	<key>thinning</key>
-	<string>&lt;none&gt;</string>
+	<string>&lt;thin-for-all-variants&gt;</string>
 </dict>
 </plist>
